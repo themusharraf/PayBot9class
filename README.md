@@ -2,7 +2,7 @@
  
 root.py
 ```python
-TOKEN = "" 
+TOKEN = ""  
 PAY_TOKEN = ""
 ```
  
